@@ -1,3 +1,3 @@
-# discord-scoutbot.github.io
+# http://scoutbot.spikeyscout.xyz
 The website for Scout-Bot.
 Currently WIP.
